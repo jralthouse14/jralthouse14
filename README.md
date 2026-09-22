@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Justin Althouse
 ========================================================================================================================================
 
-I've been learning to code for about a year. It has truly become an amazing passion and hobby of mine. I truly enjoy the variety of creativity that this skill allows me to execute. I am always striving to learn something new every day.
+I've been learning software developer coding for a year. It has truly become an amazing passion and hobby of mine. I truly enjoy the variety of creative options that this skill allows me to express. I am always striving to learn something new every day so I consider myself to be a very teachable person.
 
 * 🌍  I'm based in Dayton, Ohio
 * ✉️  You can contact me at [jradrummer95@aol.com](mailto:jradrummer95@aol.com)
