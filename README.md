@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Justin Althouse
 ========================================================================================================================================
 
-I have been a Frontend Developer for a year. Throughout this past year, I have been learning and utilizing some of the best technologies, such as Next.js, TypeScript, React, JavaScript, Firebase, and Stripe Payments. One of my best projects that I have developed and implemented can be found in the link below.
+I have been a Frontend Developer for a year. Throughout this past year, I have been learning and utilizing some of the best technologies, such as Next.js, TypeScript, React, JavaScript, Firebase, and Stripe Payments. One of my best projects that I have developed and implemented can be found here.
 skinstric-ai-project.vercel.app
 
 * 🌍  I'm based in Dayton, Ohio
