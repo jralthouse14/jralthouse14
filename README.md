@@ -19,8 +19,4 @@ I've been learning to code for about a year. It has truly become an amazing pass
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/jralthouse14/Skinstric-AI-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jralthouse14&repo=Skinstric-AI-Project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jralthouse14/Justin-Advanced-Internship" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jralthouse14&repo=Justin-Advanced-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/jralthouse14/Justin-Internship" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jralthouse14&repo=Justin-Internship&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jralthouse14/React-Final-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jralthouse14&repo=React-Final-Project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
